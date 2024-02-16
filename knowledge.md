@@ -7,3 +7,5 @@
 
 - branch-name: feature/optimize-ui,
 - git checkout-b 'branch' -> git checkout -b optimize-ui
+
+Nếu chưa tồn tại dưới local thì ở giao diện Source Control sẽ có button là Publish Branch
