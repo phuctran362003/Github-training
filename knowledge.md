@@ -3,6 +3,8 @@
 
 - git commit -m'message' -> git commit -m'Add index.html and app.css'
 
+
+<!-- VID 2: Basic command -->
 - git push
 
 - branch-name: feature/optimize-ui,
@@ -11,3 +13,8 @@
 Nếu chưa tồn tại dưới local thì ở giao diện Source Control sẽ có button là Publish Branch
 - git pull -> kéo code từ nhánh về
 - git branch -D 'tên-branch' -> xóa nhánh
+
+<!-- VID 3: Git RESET-->
+-rebase vs .merge
+-conflict code
+-
