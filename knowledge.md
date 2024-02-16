@@ -9,3 +9,5 @@
 - git checkout-b 'branch' -> git checkout -b optimize-ui
 
 Nếu chưa tồn tại dưới local thì ở giao diện Source Control sẽ có button là Publish Branch
+- git pull -> kéo code từ nhánh về
+- git branch -D 'tên-branch' -> xóa nhánh
